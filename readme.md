@@ -27,4 +27,5 @@ MIT – free to use with a little credit
 
 ---
 
-> Made with love by [@bytodals](https://github.com/bytodals) 
+> Made with love by [@bytodals](https://github.com/bytodals)
+> (https://bytodals.github.io/card/)
