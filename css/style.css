@@ -3,7 +3,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 height: 100vh;
-background-image: url(/images/bg.jpg);
+background-image: url(images/bg.jpg);
 margin: 0;
 font-family: 'Arial', sans-serif;
 }
